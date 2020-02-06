@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestAmaHomePage
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.897 s <<< FAILURE! - in runner.TestAmaHomePage
+testTitle(runner.TestAmaHomePage)  Time elapsed: 0.03 s  <<< FAILURE!
+java.lang.AssertionError: expected [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more] but found [Google]
+	at runner.TestAmaHomePage.testTitle(TestAmaHomePage.java:17)
+
