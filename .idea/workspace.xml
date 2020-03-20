@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609348cf-fc72-4eea-ab49-c86c9eaa255f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BrowserDriver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/AmazonHomePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/feature/amzonHomePage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/AmazonStepDefination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BrowserDriver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/GoogleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/CucumberRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/CucumberRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/TestAmaHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/TestAmaHomePage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +161,14 @@
       <workItem from="1580929946971" duration="599000" />
       <workItem from="1580948977893" duration="6597000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature file updated by Lobid">
+      <created>1584669619874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584669619874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -182,6 +176,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature file updated by Lobid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature file updated by Lobid" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581390162700">
@@ -192,6 +190,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="504" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581393523428" />
+    <state x="97" y="97" key="CommitChangelistDialog2" timestamp="1584669619095">
+      <screen x="0" y="23" width="1680" height="938" />
+    </state>
+    <state x="97" y="97" key="CommitChangelistDialog2/0.23.1680.938@0.23.1680.938" timestamp="1584669619095" />
     <state width="1638" height="247" key="GridCell.Tab.0.bottom" timestamp="1583158604440">
       <screen x="0" y="23" width="1680" height="938" />
     </state>
