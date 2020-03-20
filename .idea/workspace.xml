@@ -1,76 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="609348cf-fc72-4eea-ab49-c86c9eaa255f" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="609348cf-fc72-4eea-ab49-c86c9eaa255f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrowserDriver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/AmazonHomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/feature/amzonHomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/AmazonStepDefination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrowserDriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/GoogleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/CucumberRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/CucumberRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/TestAmaHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/TestAmaHomePage.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/feature/homePage.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinations/CucumberStepsDefination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="10" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/5.1.3/cucumber-testng-5.1.3.jar!/io/cucumber/testng/AbstractTestNGCucumberTests.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,17 +35,8 @@
       <dir>G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019\src\test\java\feature</dir>
     </dirStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/feature/homePage.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/stepdefinations/CucumberStepsDefination.java" />
-        <option value="$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -103,100 +45,20 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1XdjOO9be3HUFQe7HGBoKhYcphn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580957563331" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -206,22 +68,46 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BrowserDriver" />
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019\BrowserDriver" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.CucumberRunner">
+    <configuration name="Feature: amzonHomePage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/feature/amzonHomePage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: amzonHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/feature/amzonHomePage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" />
+      <option name="NAME_FILTER" value="^Search$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CucumberRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
@@ -232,6 +118,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="runner" />
       <option name="MAIN_CLASS_NAME" value="runner.CucumberRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAmaHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDDWebAutomationFramework_WeekDaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestAmaHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -241,8 +145,21 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.CucumberRunner" />
+        <item itemvalue="TestNG.TestAmaHomePage" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -260,149 +177,45 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 03m 30s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 04m 16s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 04m 53s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 05m 28s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 06m 26s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 06m 52s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 07m 39s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 08m 04s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 20h 09m 18s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2020.02.05 at 21h 09m 16s.xml">
-      <configuration name="CucumberRunner" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="7436000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28150573" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="SonarLint" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Module Dependencies" weight="0.32980332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestAmaHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageobjects/GoogleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/feature/homePage.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinations/CucumberStepsDefination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/5.1.3/cucumber-testng-5.1.3.jar!/io/cucumber/testng/AbstractTestNGCucumberTests.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/runner/CucumberRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581390162700">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581390162700" />
+    <state x="504" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581393523428">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="504" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581393523428" />
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom" timestamp="1583158604440">
+      <screen x="0" y="23" width="1680" height="938" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582849969016" />
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom/0.23.1680.938@0.23.1680.938" timestamp="1583158604440" />
+    <state width="1638" height="247" key="GridCell.Tab.0.center" timestamp="1583158604438">
+      <screen x="0" y="23" width="1680" height="938" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582849969015" />
+    <state width="1638" height="247" key="GridCell.Tab.0.center/0.23.1680.938@0.23.1680.938" timestamp="1583158604438" />
+    <state width="1638" height="247" key="GridCell.Tab.0.left" timestamp="1583158604436">
+      <screen x="0" y="23" width="1680" height="938" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582849969014" />
+    <state width="1638" height="247" key="GridCell.Tab.0.left/0.23.1680.938@0.23.1680.938" timestamp="1583158604436" />
+    <state width="1638" height="247" key="GridCell.Tab.0.right" timestamp="1583158604439">
+      <screen x="0" y="23" width="1680" height="938" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582849969015" />
+    <state width="1638" height="247" key="GridCell.Tab.0.right/0.23.1680.938@0.23.1680.938" timestamp="1583158604439" />
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1583179787082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583179787082" />
   </component>
   <component name="masterDetails">
     <states>

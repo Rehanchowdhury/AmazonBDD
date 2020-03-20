@@ -26,6 +26,8 @@ public class TestAmaHomePage {
     public void setUp(){
         page.browserSetup();
         page.setUp();
+
+
     }
 
 }

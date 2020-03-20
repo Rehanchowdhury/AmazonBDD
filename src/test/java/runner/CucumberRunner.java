@@ -7,7 +7,7 @@ import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.testng.annotations.DataProvider;
 
 @CucumberOptions(
-            features = {"src\\test\\java\\feature"},
+            features = {"src/test/java/feature"},
             glue={"stepdefinations"},
             plugin = {"pretty", "json:target/cucumber-reports/cucumber.json", "html:target/cucumber-reports"},
             strict = true,

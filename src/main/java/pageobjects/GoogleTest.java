@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 public class GoogleTest {
     static WebDriver driver;
     public void browserSetup(){
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/BrowserDriver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/BrowserDriver/chromedriver");
         driver = new ChromeDriver();
         //  GooglePage page = new GooglePage(driver);
         driver.get("https://www.google.com/");
